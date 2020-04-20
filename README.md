@@ -1,2 +1,2 @@
 # Unity
-My Unity Game Builds
+You may do whatever you want after downloading it, enjoy.
